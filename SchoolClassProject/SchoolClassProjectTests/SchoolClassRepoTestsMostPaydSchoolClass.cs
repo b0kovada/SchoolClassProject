@@ -65,7 +65,7 @@ namespace SchoolClassProject.Tests
 
             SchoolClassRepo schoolClassRepo = new SchoolClassRepo(new List<SchoolClass>());
             string actual = schoolClassRepo.MostPaydSchoolClass();
-            string expected = "Nincs egyetlen diák sem az adatbázisban!";
+            string expected = "Nincs egyetlen diák sincs az adatbázisban!";
 
             Assert.AreEqual(actual, expected);
 

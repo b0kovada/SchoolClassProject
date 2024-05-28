@@ -232,3 +232,4 @@ D:\SchoolClassProject\SchoolClassProject\SchoolClassProjectTests\obj\Debug\net8.
 D:\SchoolClassProject\SchoolClassProject\SchoolClassProjectTests\obj\Debug\net8.0\SchoolClassProjectTests.pdb
 D:\SchoolClassProject\SchoolClassProject\SchoolClassProjectTests\obj\Debug\net8.0\SchoolClassProjectTests.genruntimeconfig.cache
 D:\SchoolClassProject\SchoolClassProject\SchoolClassProjectTests\obj\Debug\net8.0\ref\SchoolClassProjectTests.dll
+D:\SchoolClassProject\SchoolClassProject\SchoolClassProjectTests\obj\Debug\net8.0\SchoolClassProjectTests.sourcelink.json

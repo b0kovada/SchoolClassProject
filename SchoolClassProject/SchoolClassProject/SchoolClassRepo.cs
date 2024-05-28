@@ -26,7 +26,7 @@ namespace SchoolClassProject
         {
             if (!FindAll().Any())
             {
-                return "Nincs egyetlen diák sem az adatbázisban!";
+                return "Nincs egyetlen diák sincs az adatbázisban!";
             }
             else
             {

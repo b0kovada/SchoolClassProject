@@ -26,3 +26,4 @@ D:\SchoolClassProject\SchoolClassProject\SchoolClassProject\obj\Debug\net8.0\ref
 D:\SchoolClassProject\SchoolClassProject\SchoolClassProject\obj\Debug\net8.0\SchoolClassProject.pdb
 D:\SchoolClassProject\SchoolClassProject\SchoolClassProject\obj\Debug\net8.0\SchoolClassProject.genruntimeconfig.cache
 D:\SchoolClassProject\SchoolClassProject\SchoolClassProject\obj\Debug\net8.0\ref\SchoolClassProject.dll
+D:\SchoolClassProject\SchoolClassProject\SchoolClassProject\obj\Debug\net8.0\SchoolClassProject.sourcelink.json
